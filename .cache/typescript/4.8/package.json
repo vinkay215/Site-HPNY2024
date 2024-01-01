@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "dependencies": {
+    "types-registry": "^0.1.677"
+  },
+  "devDependencies": {
+    "@types/intro.js": "^5.1.5"
+  }
+}
